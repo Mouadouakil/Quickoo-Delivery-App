@@ -1,6 +1,6 @@
-# Quickoo Delivery App 
+# quickoo
 
-Flutter project.
+A new Flutter project.
 
 ## Getting Started
 
